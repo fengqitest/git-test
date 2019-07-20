@@ -8,8 +8,9 @@ public class FirstClass {
         System.out.println("Hello Git Project'");
         System.out.println("Hello Git Project'");
         System.out.println("Hello Git Project'");
+        add();
     }
-    public void add(){
+    public static void   add(){
         int i=0;
         i+=10;
         System.out.println(i);
