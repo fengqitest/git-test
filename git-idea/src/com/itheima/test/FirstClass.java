@@ -9,6 +9,7 @@ public class FirstClass {
         System.out.println("Hello Git Project'");
         System.out.println("Hello Git Project'");
         add();
+        //  克隆的项目
     }
     public static void   add(){
         int i=0;
